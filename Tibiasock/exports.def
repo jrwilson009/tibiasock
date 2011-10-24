@@ -1,0 +1,8 @@
+LIBRARY	TIBIASOCK
+
+EXPORTS
+	SendPacketToServer @1
+	SendPacketToServerEx @2
+	SendPacketToClient @3
+	SendPacketToClientEx @4
+	GetProcessImageBase @5
