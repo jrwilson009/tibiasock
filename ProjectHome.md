@@ -1,0 +1,1 @@
+A dynamic library which uses code and data injection to spoof incoming and outgoing packets inside of the MMORPG Tibia.
